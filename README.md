@@ -1,5 +1,5 @@
 
-[README.md](https://github.com/user-attachments/files/31923222/README.md)
+
 # Bagged-Projected Isolation Forest (BP-IF)
 
 Official implementation of **BP-IF: Bagged-Projected Isolation Forest for Robust Anomaly Detection**, accepted at the 33rd International Conference on Neural Information Processing (ICONIP 2026) and to appear in Springer Communications in Computer and Information Science (CCIS).
