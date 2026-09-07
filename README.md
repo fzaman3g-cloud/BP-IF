@@ -81,12 +81,11 @@ The implementation sets the effective projection dimension to $\min(32,d)$, wher
 
 ## Running the notebook
 
-1. Rename the notebook in the repository to `BP_IF_Reproducibility_M50_T10.ipynb` if it has not already been renamed.
-2. Click the **Open in Colab** badge at the top of this page.
-3. Run the cells sequentially.
-4. When prompted by the **Dataset input** cell, upload a prepared CSV file.
-5. If automatic label detection fails, set `LABEL_COLUMN` to the exact column name and rerun the cell.
-6. Run the main evaluation and any additional analysis cells required.
+1. Click the **Open in Colab** badge at the top of this page.
+2. Run the cells sequentially.
+3. When prompted by the **Dataset input** cell, upload a prepared CSV file.
+4. If automatic label detection fails, set `LABEL_COLUMN` to the exact column name and rerun the cell.
+5. Run the main evaluation and any additional analysis cells required.
 
 The complete notebook performs several repeated ensemble experiments and may require substantial execution time on large datasets.
 
